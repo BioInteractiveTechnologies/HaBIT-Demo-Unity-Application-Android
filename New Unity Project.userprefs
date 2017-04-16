@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Testing\Accord Testing\Assets\AccordTest.cs">
+    <Files>
+      <File FileName="Assets\MainScript.cs" Line="52" Column="5" />
+      <File FileName="..\..\Version 1 - Just Communication\Unity Project\Assets\CypressDemo.cs" Line="33" Column="3" />
+      <File FileName="..\..\Testing\Accord Testing\Assets\AccordTest.cs" Line="36" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
